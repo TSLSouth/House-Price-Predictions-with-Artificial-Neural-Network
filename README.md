@@ -50,7 +50,7 @@ DB Dictionary (https://geodacenter.github.io/data-and-lab/KingCounty-HouseSales2
 
 <br>
 
-Re...
+Predict house prices.
 
 <br>
 
