@@ -519,7 +519,7 @@ plt.plot(y_test,y_test,'r')
 
 <br>
 
-Looks like we should train our model again using less than 99% of the houses sale prices or try a multidimensional model.
+Looks like we should train our model again using less than 99% of the houses sale prices (without outliers) or try a multidimensional model.
 
 <br>
 
